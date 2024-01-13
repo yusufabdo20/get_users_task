@@ -7,7 +7,7 @@
 
 4-run [ flutter pub get ] in Terminal 
 
-5-Start and run on your physical Device or Visual device or Emelytor 
+5-Start and run the project on your physical Device or Visual device or Emelytor 
 
 Yusuf Abdulfattah 
 
